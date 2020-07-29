@@ -23,4 +23,4 @@
 #../../../../cfe/fsw/cfe-core/src/inc/cfe_tbl_msg.h
 #../../../../apps/eps/fsw/src/eps_msg.h
 #../../../../apps/comms/fsw/src/comms_msg.h
-../../../../apps/payload/fsw/src/payload_msg.h
+#../../../../apps/payload/fsw/src/payload_msg.h
